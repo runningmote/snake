@@ -6,7 +6,7 @@
 .box {
     position: relative;
     width: 640px;
-    height: 640px;
+    height: 600px;
     margin: 0 auto;
     background: #ccc;
 }
@@ -81,6 +81,7 @@ p{
 }
 .tip{
 	width:640px;
-	margin:50px auto;
-	padding-left:320px;
+	margin:auto;
+	margin-top:10px;
+	padding-left:160px;
 }
